@@ -1,2 +1,8 @@
 # mag389.github.io
-Github personal website
+My Github personal website
+
+Mostly based on the worderful work of [Cody Glickman](https://github.com/glickmac/glickmac.github.io) with full permission.
+
+The code itself is releasd under creative commons open license [Source](http://creativecommons.org/licenses/by/3.0/)
+
+
